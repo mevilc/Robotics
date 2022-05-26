@@ -13,3 +13,8 @@
 **4) Dynamics** - Generate the dynamics of the robot - inertia, coriolios, and gravity matrices - and use that to plot end-effector trajectory for torques sent at 200 Hz and 1KHz.
 
 <img width="310" alt="Screen Shot 2022-05-26 at 12 04 30 AM" src="https://user-images.githubusercontent.com/39920489/170413569-968c129a-84db-4248-b393-4bf07e742225.png">
+
+
+**5) Project** - Drive a KUKA robot from its initial configuration to a final configuration. Final configuration is the robot arm placing a wooden block over a target. Used forward kinematics to track end effector pose, inverse kinematics to generate desired pose, and cubic polynomial trajectory generation.
+
+<img width="300" alt="Screen Shot 2022-05-26 at 12 08 37 AM" src="https://user-images.githubusercontent.com/39920489/170414392-fae097fb-9642-4cba-85fe-0f9118d2f729.png"> <img width="360" alt="Screen Shot 2022-05-26 at 12 09 05 AM" src="https://user-images.githubusercontent.com/39920489/170414405-356cc7e1-db82-44d9-8b3d-9e9f9db88c2e.png">
