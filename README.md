@@ -1,4 +1,4 @@
-# Robotics
+# Robotics -- MEEG 671 (UDEL)
 **All code in MATLAB**
 
 **1) Dinosaur** - Simulate the robot motion and determine if the the dinosaur is looking at the window GH. Used Forward Kinematics and tracked end-effector position wrt to base and used that to track GH's position wrt to camera frame.
